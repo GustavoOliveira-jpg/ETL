@@ -1,6 +1,6 @@
 # ETL - APHEX TWIN
 
-Um projeto Python para extrair, processar e analisar dados do compositor Aphex Twin. Os dados são salvos em arquivos CSV e Excel para facilitar a análise e o compartilhamento.
+Um projeto Python para extrair, processar e analisar dados do músico,compositor e DJ Aphex Twin. Os dados são salvos em arquivos CSV e Excel para facilitar a análise e o compartilhamento.
 
 ---
 
