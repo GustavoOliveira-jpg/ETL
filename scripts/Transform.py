@@ -1,5 +1,4 @@
 import pandas as pd
-from pyodbc import drivers 
 import requests 
 import os
 from dotenv import load_dotenv, find_dotenv
