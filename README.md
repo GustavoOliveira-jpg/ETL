@@ -65,3 +65,6 @@ O projeto funciona em várias etapas:
 O projeto usa bibliotecas como pandas, requests, dotenv, etc. Para instalá-las, execute:
     ```bash
     pip install -r requirements.txt
+
+
+Referências : https://www.youtube.com/watch?v=WAmEZBEeNmg
