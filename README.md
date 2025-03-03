@@ -1,7 +1,5 @@
 # ETL - APHEX TWIN
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 Um projeto Python para extrair, processar e analisar dados do compositor Aphex Twin. Os dados são salvos em arquivos CSV e Excel para facilitar a análise e o compartilhamento.
 
 ---
@@ -58,3 +56,12 @@ O projeto funciona em várias etapas:
    ```bash
    git clone https://github.com/GustavoOliveira-jpg/ETL-Aphex-Twin.git
    cd ETL-Aphex-Twin
+2. Crie e ative um ambiente virtual
+   dentro da pasta do projeto, abra o terminal e exceute
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
+3. Instale as Dependências
+O projeto usa bibliotecas como pandas, requests, dotenv, etc. Para instalá-las, execute:
+    ```bash
+    pip install -r requirements.txt
